@@ -1,0 +1,8 @@
+V = 5
+I = 0.02
+V = IR
+R = V / I
+R = 5/0.02
+R = 250 Ω
+
+I would choose a higher resistance to ensure no over current being supplied to the LED
